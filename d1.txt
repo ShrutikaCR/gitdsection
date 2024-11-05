@@ -4,18 +4,25 @@ hello world
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 85f6ace ('#'second commit)
+=======
+>>>>>>> 9fc6096 ('#'fourth commit)
 acharya institute of technology
 
 =======
 acharya
 >>>>>>> 1d4d7c7 (second commit)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9fc6096 ('#'fourth commit)
 =======
 acharya institute of technology
 
 >>>>>>> ebde413 (fourth commit)
+<<<<<<< HEAD
 =======
 acharya
 >>>>>>> 1d4d7c7 (second commit)
@@ -25,3 +32,5 @@ acharya institute of technology
 >>>>>>> ebde413 (fourth commit)
 =======
 >>>>>>> 85f6ace ('#'second commit)
+=======
+>>>>>>> 9fc6096 ('#'fourth commit)
