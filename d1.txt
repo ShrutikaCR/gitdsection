@@ -3,11 +3,15 @@ hello world
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 85f6ace ('#'second commit)
 acharya institute of technology
 
 =======
 acharya
 >>>>>>> 1d4d7c7 (second commit)
+<<<<<<< HEAD
 =======
 acharya institute of technology
 
@@ -19,3 +23,5 @@ acharya
 acharya institute of technology
 
 >>>>>>> ebde413 (fourth commit)
+=======
+>>>>>>> 85f6ace ('#'second commit)
