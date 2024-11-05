@@ -3,8 +3,11 @@ custom commit message
 <<<<<<< HEAD
 learning cherry pick
 along with merge
+<<<<<<< HEAD
 =======
 >>>>>>> ac17763 (third commit)
 =======
 learning cherry pick
 >>>>>>> c84584b (fifth commit)
+=======
+>>>>>>> 8eaad6c (seventh commit)
