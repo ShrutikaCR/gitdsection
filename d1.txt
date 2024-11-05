@@ -1,7 +1,12 @@
 hello world
 <<<<<<< HEAD
+<<<<<<< HEAD
 acharya institute of technology
 
 =======
 acharya
 >>>>>>> 1d4d7c7 (second commit)
+=======
+acharya institute of technology
+
+>>>>>>> ebde413 (fourth commit)
