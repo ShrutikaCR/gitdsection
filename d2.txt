@@ -1,3 +1,6 @@
 custom commit message
+<<<<<<< HEAD
 learning cherry pick
 along with merge
+=======
+>>>>>>> ac17763 (third commit)
